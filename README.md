@@ -148,5 +148,3 @@ The app opens at `http://localhost:8501`.
 - `langgraph >= 0.2.0`
 - `streamlit >= 1.40.0`
 - `pydantic >= 2.0.0`
-
-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
