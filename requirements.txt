@@ -1,0 +1,20 @@
+# ── Core frameworks ──────────────────────────────────────────────────────────
+streamlit>=1.40.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langgraph>=0.2.0
+pydantic>=2.0.0
+
+# ── LLM providers (install the one(s) you need) ───────────────────────────────
+
+# Option A — Anthropic Claude  (paid, requires credits)
+langchain-anthropic>=0.3.0
+
+# Option B — Groq  (FREE tier — fastest inference)
+langchain-groq>=0.2.0
+
+# Option C — Google Gemini  (FREE tier)
+langchain-google-genai>=2.0.0
+
+# Option D — Ollama  (FREE, fully local)
+langchain-ollama>=0.2.0
